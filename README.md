@@ -1,3 +1,4 @@
 # hello-world
 Hi,humans,look at here!
-you are a son of bitch!
+I am a rookie about Github.
+I like java ,javascript and so on!

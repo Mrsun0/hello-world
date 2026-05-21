@@ -2,6 +2,7 @@ import math
 from dataclasses import dataclass
 from typing import Dict, Iterable, List, Sequence, Set, Tuple
 
+
 Point = Tuple[float, float]
 
 
